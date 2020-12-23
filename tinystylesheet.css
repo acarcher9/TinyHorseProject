@@ -1,0 +1,22 @@
+.jumbotron-fluid{
+    background-color:transparent;
+    font-family: 'Playfair Display', serif;
+
+}
+.header-label{
+    color:white;
+    text-align: left;
+    margin: 50px;
+    padding-right: 40%;
+   
+}
+body{
+    background-image:url(jordan-mcqueen-u9tAl8WR3DI-unsplash.jpg)
+}
+.nav-item a{
+    color:white;
+}
+#navwords{
+    text-transform:uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
